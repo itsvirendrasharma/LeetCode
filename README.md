@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0217-contains-duplicate](https://github.com/itsvirendrasharma/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/itsvirendrasharma/LeetCode/tree/master/0283-move-zeroes) |
 | [0875-koko-eating-bananas](https://github.com/itsvirendrasharma/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itsvirendrasharma/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/itsvirendrasharma/LeetCode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/itsvirendrasharma/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/itsvirendrasharma/LeetCode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/itsvirendrasharma/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/itsvirendrasharma/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itsvirendrasharma/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/itsvirendrasharma/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/itsvirendrasharma/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/itsvirendrasharma/LeetCode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/itsvirendrasharma/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itsvirendrasharma/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/itsvirendrasharma/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -46,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/itsvirendrasharma/LeetCode/tree/master/0217-contains-duplicate) |
 | [1552-magnetic-force-between-two-balls](https://github.com/itsvirendrasharma/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->

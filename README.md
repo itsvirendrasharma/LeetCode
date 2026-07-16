@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/itsvirendrasharma/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/itsvirendrasharma/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/itsvirendrasharma/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/itsvirendrasharma/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/itsvirendrasharma/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/itsvirendrasharma/LeetCode/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/itsvirendrasharma/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/itsvirendrasharma/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -100,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/itsvirendrasharma/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->

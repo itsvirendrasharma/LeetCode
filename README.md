@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/itsvirendrasharma/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/itsvirendrasharma/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/itsvirendrasharma/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/itsvirendrasharma/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -76,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/itsvirendrasharma/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/itsvirendrasharma/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/itsvirendrasharma/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/itsvirendrasharma/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/itsvirendrasharma/LeetCode/tree/master/0242-valid-anagram) |
 | [1552-magnetic-force-between-two-balls](https://github.com/itsvirendrasharma/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsvirendrasharma/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming

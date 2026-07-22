@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/itsvirendrasharma/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/itsvirendrasharma/LeetCode/tree/master/2235-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/itsvirendrasharma/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsvirendrasharma/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/itsvirendrasharma/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsvirendrasharma/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/itsvirendrasharma/LeetCode/tree/master/0389-find-the-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/itsvirendrasharma/LeetCode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->

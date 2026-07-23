@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsvirendrasharma/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsvirendrasharma/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/itsvirendrasharma/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsvirendrasharma/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/itsvirendrasharma/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/itsvirendrasharma/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/itsvirendrasharma/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |

@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/itsvirendrasharma/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/itsvirendrasharma/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1748-sum-of-unique-elements](https://github.com/itsvirendrasharma/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1901-find-a-peak-element-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsvirendrasharma/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/itsvirendrasharma/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/itsvirendrasharma/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/itsvirendrasharma/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/itsvirendrasharma/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/itsvirendrasharma/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/itsvirendrasharma/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/itsvirendrasharma/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/itsvirendrasharma/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/itsvirendrasharma/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/itsvirendrasharma/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/itsvirendrasharma/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Queue
 |  |

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/itsvirendrasharma/LeetCode/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/itsvirendrasharma/LeetCode/tree/master/2427-number-of-common-factors) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsvirendrasharma/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/itsvirendrasharma/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsvirendrasharma/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsvirendrasharma/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsvirendrasharma/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsvirendrasharma/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/itsvirendrasharma/LeetCode/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2706-buy-two-chocolates](https://github.com/itsvirendrasharma/LeetCode/tree/master/2706-buy-two-chocolates) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsvirendrasharma/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
 | ------- |

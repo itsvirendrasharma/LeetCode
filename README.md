@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/itsvirendrasharma/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/itsvirendrasharma/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/itsvirendrasharma/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/itsvirendrasharma/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1512-number-of-good-pairs](https://github.com/itsvirendrasharma/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/itsvirendrasharma/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/itsvirendrasharma/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/itsvirendrasharma/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/itsvirendrasharma/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/itsvirendrasharma/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/itsvirendrasharma/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/itsvirendrasharma/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/itsvirendrasharma/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/itsvirendrasharma/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/itsvirendrasharma/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/itsvirendrasharma/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/itsvirendrasharma/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/itsvirendrasharma/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -254,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/itsvirendrasharma/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/itsvirendrasharma/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/itsvirendrasharma/LeetCode/tree/master/0389-find-the-difference) |
 ## Enumeration

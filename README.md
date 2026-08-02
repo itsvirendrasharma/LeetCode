@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/itsvirendrasharma/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/itsvirendrasharma/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/itsvirendrasharma/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/itsvirendrasharma/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/itsvirendrasharma/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/itsvirendrasharma/LeetCode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/itsvirendrasharma/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/itsvirendrasharma/LeetCode/tree/master/0389-find-the-difference) |

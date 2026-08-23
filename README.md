@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/itsvirendrasharma/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/itsvirendrasharma/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0458-poor-pigs](https://github.com/itsvirendrasharma/LeetCode/tree/master/0458-poor-pigs) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/itsvirendrasharma/LeetCode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/itsvirendrasharma/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/itsvirendrasharma/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itsvirendrasharma/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0410-split-array-largest-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0458-poor-pigs](https://github.com/itsvirendrasharma/LeetCode/tree/master/0458-poor-pigs) |
 ## Greedy
 |  |
 | ------- |
@@ -356,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/itsvirendrasharma/LeetCode/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->

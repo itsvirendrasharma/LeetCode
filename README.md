@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/itsvirendrasharma/LeetCode/tree/master/0458-poor-pigs) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/itsvirendrasharma/LeetCode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/itsvirendrasharma/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/itsvirendrasharma/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1512-number-of-good-pairs](https://github.com/itsvirendrasharma/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/itsvirendrasharma/LeetCode/tree/master/2235-add-two-integers) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/itsvirendrasharma/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0410-split-array-largest-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0458-poor-pigs](https://github.com/itsvirendrasharma/LeetCode/tree/master/0458-poor-pigs) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/itsvirendrasharma/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Greedy
 |  |
 | ------- |
@@ -362,4 +364,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/itsvirendrasharma/LeetCode/tree/master/0458-poor-pigs) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/itsvirendrasharma/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 <!---LeetCode Topics End-->

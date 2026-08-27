@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/itsvirendrasharma/LeetCode/tree/master/2235-add-two-integers) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2427-number-of-common-factors](https://github.com/itsvirendrasharma/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsvirendrasharma/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/itsvirendrasharma/LeetCode/tree/master/3024-type-of-triangle) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/itsvirendrasharma/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2706-buy-two-chocolates](https://github.com/itsvirendrasharma/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsvirendrasharma/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsvirendrasharma/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |

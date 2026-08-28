@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/itsvirendrasharma/LeetCode/tree/master/0458-poor-pigs) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/itsvirendrasharma/LeetCode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/itsvirendrasharma/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/itsvirendrasharma/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/itsvirendrasharma/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1512-number-of-good-pairs](https://github.com/itsvirendrasharma/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/itsvirendrasharma/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itsvirendrasharma/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/itsvirendrasharma/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/itsvirendrasharma/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/1480-running-sum-of-1d-array) |

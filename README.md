@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/itsvirendrasharma/LeetCode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/itsvirendrasharma/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/0268-missing-number) |
+| [0343-integer-break](https://github.com/itsvirendrasharma/LeetCode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/itsvirendrasharma/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/itsvirendrasharma/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/itsvirendrasharma/LeetCode/tree/master/0382-linked-list-random-node) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itsvirendrasharma/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0343-integer-break](https://github.com/itsvirendrasharma/LeetCode/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0458-poor-pigs](https://github.com/itsvirendrasharma/LeetCode/tree/master/0458-poor-pigs) |
 | [1227-airplane-seat-assignment-probability](https://github.com/itsvirendrasharma/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |

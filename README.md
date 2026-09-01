@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/itsvirendrasharma/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/itsvirendrasharma/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0458-poor-pigs](https://github.com/itsvirendrasharma/LeetCode/tree/master/0458-poor-pigs) |
+| [0728-self-dividing-numbers](https://github.com/itsvirendrasharma/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/itsvirendrasharma/LeetCode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0878-nth-magical-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/0878-nth-magical-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/itsvirendrasharma/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |

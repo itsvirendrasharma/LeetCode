@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/itsvirendrasharma/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/itsvirendrasharma/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0458-poor-pigs](https://github.com/itsvirendrasharma/LeetCode/tree/master/0458-poor-pigs) |
+| [0667-beautiful-arrangement-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0728-self-dividing-numbers](https://github.com/itsvirendrasharma/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/itsvirendrasharma/LeetCode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0878-nth-magical-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/0878-nth-magical-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/itsvirendrasharma/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/itsvirendrasharma/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/itsvirendrasharma/LeetCode/tree/master/0575-distribute-candies) |
+| [0667-beautiful-arrangement-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0875-koko-eating-bananas](https://github.com/itsvirendrasharma/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/itsvirendrasharma/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/itsvirendrasharma/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |

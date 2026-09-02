@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/itsvirendrasharma/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/itsvirendrasharma/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2706-buy-two-chocolates](https://github.com/itsvirendrasharma/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsvirendrasharma/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsvirendrasharma/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsvirendrasharma/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/itsvirendrasharma/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsvirendrasharma/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsvirendrasharma/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/itsvirendrasharma/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/itsvirendrasharma/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/itsvirendrasharma/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsvirendrasharma/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/itsvirendrasharma/LeetCode/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/itsvirendrasharma/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/itsvirendrasharma/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2706-buy-two-chocolates](https://github.com/itsvirendrasharma/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsvirendrasharma/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |

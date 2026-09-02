@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/itsvirendrasharma/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/itsvirendrasharma/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/itsvirendrasharma/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0415-add-strings](https://github.com/itsvirendrasharma/LeetCode/tree/master/0415-add-strings) |
 | [0458-poor-pigs](https://github.com/itsvirendrasharma/LeetCode/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0667-beautiful-arrangement-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/itsvirendrasharma/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/itsvirendrasharma/LeetCode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/itsvirendrasharma/LeetCode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/itsvirendrasharma/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/itsvirendrasharma/LeetCode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itsvirendrasharma/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |

@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/itsvirendrasharma/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsvirendrasharma/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/itsvirendrasharma/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/itsvirendrasharma/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/itsvirendrasharma/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/itsvirendrasharma/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Stack
 |  |
 | ------- |
@@ -506,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/itsvirendrasharma/LeetCode/tree/master/0292-nim-game) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/itsvirendrasharma/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->

@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsvirendrasharma/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/itsvirendrasharma/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3941-password-strength](https://github.com/itsvirendrasharma/LeetCode/tree/master/3941-password-strength) |
 ## Hash Table
 |  |
 | ------- |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsvirendrasharma/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/itsvirendrasharma/LeetCode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/itsvirendrasharma/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3941-password-strength](https://github.com/itsvirendrasharma/LeetCode/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/itsvirendrasharma/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |

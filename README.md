@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/itsvirendrasharma/LeetCode/tree/master/0415-add-strings) |
 | [0458-poor-pigs](https://github.com/itsvirendrasharma/LeetCode/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0507-perfect-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/itsvirendrasharma/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0667-beautiful-arrangement-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0728-self-dividing-numbers](https://github.com/itsvirendrasharma/LeetCode/tree/master/0728-self-dividing-numbers) |

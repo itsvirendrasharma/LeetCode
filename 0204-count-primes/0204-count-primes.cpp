@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int countPrimes(int n) {
+        if (n <= 2) return 0;
+
+        vector<bool> composite(n, false);
+        int count = n / 2;  // Assume all odd numbers are prime
+
+        for (int i = 3; i * i < n; i += 2) {
+            if (!composite[i]) {
+                for (int j = i * i; j < n; j += 2 * i) {
+                    if (!composite[j]) {
+                        composite[j] = true;
+                        count--;
+                    }
+                }
+            }
+        }
+
+        return count;
+    }
+};

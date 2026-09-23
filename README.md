@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/itsvirendrasharma/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/itsvirendrasharma/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/itsvirendrasharma/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/itsvirendrasharma/LeetCode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/itsvirendrasharma/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/0268-missing-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/itsvirendrasharma/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/itsvirendrasharma/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/itsvirendrasharma/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/itsvirendrasharma/LeetCode/tree/master/0204-count-primes) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2427-number-of-common-factors](https://github.com/itsvirendrasharma/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsvirendrasharma/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/itsvirendrasharma/LeetCode/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/itsvirendrasharma/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Counting Sort
 |  |
@@ -527,4 +531,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/itsvirendrasharma/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/itsvirendrasharma/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/itsvirendrasharma/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/itsvirendrasharma/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

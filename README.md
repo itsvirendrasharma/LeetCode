@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/itsvirendrasharma/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/itsvirendrasharma/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/itsvirendrasharma/LeetCode/tree/master/1518-water-bottles) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/itsvirendrasharma/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1903-largest-odd-number-in-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/itsvirendrasharma/LeetCode/tree/master/2235-add-two-integers) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/itsvirendrasharma/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1748-sum-of-unique-elements](https://github.com/itsvirendrasharma/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/itsvirendrasharma/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/itsvirendrasharma/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1901-find-a-peak-element-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsvirendrasharma/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/itsvirendrasharma/LeetCode/tree/master/0223-rectangle-area) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/itsvirendrasharma/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/itsvirendrasharma/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Reservoir Sampling
 |  |
 | ------- |

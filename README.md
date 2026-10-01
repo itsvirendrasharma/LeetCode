@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/itsvirendrasharma/LeetCode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/itsvirendrasharma/LeetCode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/itsvirendrasharma/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0535-encode-and-decode-tinyurl](https://github.com/itsvirendrasharma/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/itsvirendrasharma/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/itsvirendrasharma/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/itsvirendrasharma/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0535-encode-and-decode-tinyurl](https://github.com/itsvirendrasharma/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0575-distribute-candies](https://github.com/itsvirendrasharma/LeetCode/tree/master/0575-distribute-candies) |
 | [1189-maximum-number-of-balloons](https://github.com/itsvirendrasharma/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/itsvirendrasharma/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -565,4 +567,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/itsvirendrasharma/LeetCode/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/itsvirendrasharma/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/itsvirendrasharma/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->

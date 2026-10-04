@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/itsvirendrasharma/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/itsvirendrasharma/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itsvirendrasharma/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/itsvirendrasharma/LeetCode/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0458-poor-pigs](https://github.com/itsvirendrasharma/LeetCode/tree/master/0458-poor-pigs) |
+| [0678-valid-parenthesis-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1227-airplane-seat-assignment-probability](https://github.com/itsvirendrasharma/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/itsvirendrasharma/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Greedy
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/itsvirendrasharma/LeetCode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/itsvirendrasharma/LeetCode/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/itsvirendrasharma/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/1323-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/itsvirendrasharma/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/itsvirendrasharma/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/itsvirendrasharma/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/itsvirendrasharma/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/itsvirendrasharma/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itsvirendrasharma/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itsvirendrasharma/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/itsvirendrasharma/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/itsvirendrasharma/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/itsvirendrasharma/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itsvirendrasharma/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itsvirendrasharma/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Z Algorithm

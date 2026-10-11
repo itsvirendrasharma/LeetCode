@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/itsvirendrasharma/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2706-buy-two-chocolates](https://github.com/itsvirendrasharma/LeetCode/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/itsvirendrasharma/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsvirendrasharma/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsvirendrasharma/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/itsvirendrasharma/LeetCode/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/itsvirendrasharma/LeetCode/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/itsvirendrasharma/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Counting Sort
 |  |
 | ------- |

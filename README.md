@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/itsvirendrasharma/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/itsvirendrasharma/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1903-largest-odd-number-in-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/itsvirendrasharma/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/itsvirendrasharma/LeetCode/tree/master/2235-add-two-integers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsvirendrasharma/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsvirendrasharma/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/itsvirendrasharma/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/itsvirendrasharma/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsvirendrasharma/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsvirendrasharma/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/itsvirendrasharma/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/itsvirendrasharma/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2785-sort-vowels-in-a-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itsvirendrasharma/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/itsvirendrasharma/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/itsvirendrasharma/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/itsvirendrasharma/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Stack
 |  |

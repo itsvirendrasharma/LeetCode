@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/itsvirendrasharma/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/itsvirendrasharma/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsvirendrasharma/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Array
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsvirendrasharma/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/itsvirendrasharma/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/itsvirendrasharma/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/itsvirendrasharma/LeetCode/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/itsvirendrasharma/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/itsvirendrasharma/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2578-split-with-minimum-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/itsvirendrasharma/LeetCode/tree/master/2706-buy-two-chocolates) |

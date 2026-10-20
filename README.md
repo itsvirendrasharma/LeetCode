@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/itsvirendrasharma/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itsvirendrasharma/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/itsvirendrasharma/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/itsvirendrasharma/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/itsvirendrasharma/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/itsvirendrasharma/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1227-airplane-seat-assignment-probability](https://github.com/itsvirendrasharma/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/itsvirendrasharma/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/itsvirendrasharma/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/itsvirendrasharma/LeetCode/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/itsvirendrasharma/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/itsvirendrasharma/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/itsvirendrasharma/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting Sort
 |  |
 | ------- |

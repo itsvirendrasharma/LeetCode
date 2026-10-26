@@ -649,4 +649,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/itsvirendrasharma/LeetCode/tree/master/0175-combine-two-tables) |
+| [1393-capital-gainloss](https://github.com/itsvirendrasharma/LeetCode/tree/master/1393-capital-gainloss) |
 <!---LeetCode Topics End-->

@@ -649,5 +649,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/itsvirendrasharma/LeetCode/tree/master/0175-combine-two-tables) |
+| [0178-rank-scores](https://github.com/itsvirendrasharma/LeetCode/tree/master/0178-rank-scores) |
 | [1393-capital-gainloss](https://github.com/itsvirendrasharma/LeetCode/tree/master/1393-capital-gainloss) |
 <!---LeetCode Topics End-->

@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/itsvirendrasharma/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/itsvirendrasharma/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/itsvirendrasharma/LeetCode/tree/master/1518-water-bottles) |
+| [1641-count-sorted-vowel-strings](https://github.com/itsvirendrasharma/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/itsvirendrasharma/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/itsvirendrasharma/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1903-largest-odd-number-in-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1227-airplane-seat-assignment-probability](https://github.com/itsvirendrasharma/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/itsvirendrasharma/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1641-count-sorted-vowel-strings](https://github.com/itsvirendrasharma/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/itsvirendrasharma/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0458-poor-pigs](https://github.com/itsvirendrasharma/LeetCode/tree/master/0458-poor-pigs) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/itsvirendrasharma/LeetCode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1641-count-sorted-vowel-strings](https://github.com/itsvirendrasharma/LeetCode/tree/master/1641-count-sorted-vowel-strings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Pigeonhole Principle
 |  |

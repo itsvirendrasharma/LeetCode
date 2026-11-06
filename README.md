@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/itsvirendrasharma/LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2413-smallest-even-multiple](https://github.com/itsvirendrasharma/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/itsvirendrasharma/LeetCode/tree/master/2427-number-of-common-factors) |
+| [2485-find-the-pivot-integer](https://github.com/itsvirendrasharma/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2578-split-with-minimum-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [2652-sum-multiples](https://github.com/itsvirendrasharma/LeetCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/itsvirendrasharma/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/itsvirendrasharma/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2485-find-the-pivot-integer](https://github.com/itsvirendrasharma/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/itsvirendrasharma/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List

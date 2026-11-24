@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/itsvirendrasharma/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/itsvirendrasharma/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1901-find-a-peak-element-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [1920-build-array-from-permutation](https://github.com/itsvirendrasharma/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itsvirendrasharma/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/itsvirendrasharma/LeetCode/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/itsvirendrasharma/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/itsvirendrasharma/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1920-build-array-from-permutation](https://github.com/itsvirendrasharma/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/itsvirendrasharma/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |

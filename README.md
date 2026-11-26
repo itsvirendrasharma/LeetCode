@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/itsvirendrasharma/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/itsvirendrasharma/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/itsvirendrasharma/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/itsvirendrasharma/LeetCode/tree/master/3360-stone-removal-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/itsvirendrasharma/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/itsvirendrasharma/LeetCode/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsvirendrasharma/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itsvirendrasharma/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3100-water-bottles-ii](https://github.com/itsvirendrasharma/LeetCode/tree/master/3100-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/itsvirendrasharma/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/itsvirendrasharma/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/itsvirendrasharma/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
